@@ -1,5 +1,4 @@
 const showTeaMasterRanking = () => {
- 
   const meetings = [...document.querySelectorAll('table tbody tr')].map((row) => {
     const curTd = row.querySelectorAll('td');
 
