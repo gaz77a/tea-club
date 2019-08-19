@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 480 | [Barry's Tea]      | [Black]     | [Barry's Tea Gold Blend]    | [Ireland]   | Gary Butler     | 19-08-19 |
 | 479 | [BOH]              | [Black]     | Boh Black Tea               | [Malaysia]  | Rozanna Wong    | 14-08-19 |
 | 478 | [Sabah Tea]        | [Black]     | Sabah Black Tea             | [Malaysia]  | Rozanna Wong    | 13-08-19 |
 | 477 | [T2]               | [Black]     | [Irish Breakfast]           | [Australia] | Gary Butler     | 12-08-19 |
@@ -18,7 +19,7 @@
 | 470 | [Basilur]          | [Black]     | [Folk Indigo]               | [Sri Lanka] | Ruslan Kazakov  | 24-07-19 |
 | 469 | [Tipson]           | [Green]     | [Ethno Cream Buds]          | [Sri Lanka] | Ruslan Kazakov  | 23-07-19 |
 | 468 | [World Par-Tea]    | [Black]     | Dikom Assam Estate          | [Australia] | Gary Butler     | 12-07-19 |
-| 467 | [World Par-Tea]    | [Black]     | [Creamed Earl Grey]         | [Australia] | Gary Butler     | 11-07-19 | 
+| 467 | [World Par-Tea]    | [Black]     | [Creamed Earl Grey]         | [Australia] | Gary Butler     | 11-07-19 |
 | 466 | [World Par-Tea]    | [Black]     | [Chocolate Dream Cream]     | [Australia] | Gary Butler     | 10-07-19 |
 | 465 | [T2]               | [Black]     | [La Fudgy]                  | [China]     | Gary Butler     | 07-06-19 |
 | 464 | [World Par-Tea]    | [Black]     | [Blood Orange BFT]          | [China]     | Gary Butler     | 06-06-19 |
@@ -494,6 +495,7 @@
 [Akbar]: http://www.akbar.com
 [Amy's Teas]: https://github.com/frydreise/recipes
 [Anhui]: https://en.wikipedia.org/wiki/Anhui
+[Barry's Tea]: http://www.barrystea.ie/
 [Basilur]: http://www.basilurshop.com.au
 [Black Dragon]: http://www.china-tea.ru
 [Blue Mountains]: https://bluemountainstea.com.au
@@ -593,6 +595,7 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Barry's Tea Gold Blend]: https://barrysteashop.ie/collections/signature-teabags/products/gold-blend-80s
 [Irish Breakfast]: https://www.t2tea.com/en/ca/tea/black-tea/irish-breakfast-teabag-D107.html
 [Magic Fruits Raspberry]: http://www.basilurshop.com.au/basilur/magic-fruits-green-loose-tea-raspberry-100g
 [For You]: https://americansportshouse.com/products/tipson-gift-collection-for-you-heart-te-gift-pure-ceylon-black-tea-loose-black-leaf-tea-with-melon-cantaloupe-and-rose-designer-tin-caddy-75g-2-pack-for-you-gold-2-pack

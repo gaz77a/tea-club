@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 415 | [Barry's Tea]      | [Black]     | [Barry's Tea Gold Blend]    | [Ireland]   | Black tea                   |
 | 414 | [BOH]              | [Black]     | Boh Black Tea               | [Malaysia]  | Black tea                   |
 | 413 | [Sabah Tea]        | [Black]     | Sabah Black Tea             | [Malaysia]  | Black tea                   |
 | 412 | [T2]               | [Black]     | [Irish Breakfast]           | [Australia] | Black tea                   |
@@ -16,7 +17,7 @@
 | 407 | [Basilur]          | [Green]     | [Blackberry Tea]            | [Sri Lanka] | Blackberry                  |
 | 406 | [Basilur]          | [Black]     | [Folk Indigo]               | [Sri Lanka] | Blackcurrant, Blueberry     |
 | 405 | [World Par-Tea]    | [Black]     | Dikom Assam Estate          | [Australia] | Black tea                   |
-| 404 | [World Par-Tea]    | [Black]     | [Creamed Earl Grey]         | [Australia] | Bergamont, Cream            | 
+| 404 | [World Par-Tea]    | [Black]     | [Creamed Earl Grey]         | [Australia] | Bergamont, Cream            |
 | 403 | [World Par-Tea]    | [Black]     | [Chocolate Dream Cream]     | [Australia] | Caramel, Chocolate          |
 | 402 | [T2]               | [Black]     | [La Fudgy]                  | [China]     | Caramel                     |
 | 401 | [World Par-Tea]    | [Black]     | [Blood Orange BFT]          | [China]     | Blood Orange                |
@@ -428,6 +429,7 @@
 [Akbar]: http://www.akbar.com
 [Amy's Teas]: https://github.com/frydreise/recipes
 [Anhui]: https://en.wikipedia.org/wiki/Anhui
+[Barry's Tea]: http://www.barrystea.ie/
 [Basilur]: http://www.basilurshop.com.au
 [Black Dragon]: http://www.china-tea.ru
 [Blue Mountains]: https://bluemountainstea.com.au
@@ -527,6 +529,7 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Barry's Tea Gold Blend]: https://barrysteashop.ie/collections/signature-teabags/products/gold-blend-80s
 [Irish Breakfast]: https://www.t2tea.com/en/ca/tea/black-tea/irish-breakfast-teabag-D107.html
 [Magic Fruits Raspberry]: http://www.basilurshop.com.au/basilur/magic-fruits-green-loose-tea-raspberry-100g
 [For You]: https://americansportshouse.com/products/tipson-gift-collection-for-you-heart-te-gift-pure-ceylon-black-tea-loose-black-leaf-tea-with-melon-cantaloupe-and-rose-designer-tin-caddy-75g-2-pack-for-you-gold-2-pack
